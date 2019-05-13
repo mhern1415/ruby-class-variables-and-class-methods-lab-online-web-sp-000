@@ -7,6 +7,6 @@ def initialize(song, artist, genre)
   @artist = artist 
   @genre = genre 
   
-  
+  @@song_count = 0 
   
 end
